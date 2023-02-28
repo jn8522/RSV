@@ -1,0 +1,15 @@
+Year,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011
+start.term1,Mon 1 February ,Mon 3 February ,Mon 4 February ,Wed 31 January ,Wed 1 February ,Mon 1 February ,Mon 2 February ,Mon 3 February ,Mon 4 February ,Wed 1 February ,Wed 2 February 
+end.term1, Thu 1 April, Thu 9 April, Fri 12 April, Fri 13 April, Fri 7 April, Fri 8 April, Thu 2 April, Fri 11 April, Fri 19 April, Thu 5 April, Tue 19 April
+start.break1,Fri 2 April ,Fri 10 April ,Sat 13 April ,Sat 14 April ,Sat 8 April ,Sat 9 April ,Fri 3 April ,Sat 12 April ,Sat 20 April ,Fri 6 April ,Wed 20 April 
+end.break1, Sun 18 April, Mon 27 April, Sun 28 April, Sun 29 April, Sun 23 April, Mon 25 April, Sun 19 April, Sun 27 April, Sun 5 May, Wed 25 April, Wed 4 May
+start.term2,Mon 19 April ,Tue 28 April ,Mon 29 April ,Mon 30 April ,Mon 24 April ,Tue 26 April ,Mon 20 April ,Mon 28 April ,Mon 6 May ,Thu 26 April ,Thu 5 May 
+end.term2, Fri 2 July, Fri 3 July, Fri 5 July, Fri 29 June, Fri 30 June, Fri 1 July, Fri 3 July, Fri 4 July, Fri 5 July, Fri 6 July, Fri 8 July
+start.break2,Sat 3 July ,Sat 4 July ,Sat 6 July ,Sat 30 June ,Sat 1 July ,Sat 2 July ,Sat 4 July ,Sat 5 July ,Sat 6 July ,Sat 7 July ,Sat 9 July 
+end.break2, Sun 18 July, Sun 19 July, Sun 21 July, Sun 15 July, Sun 16 July, Sun 17 July, Sun 19 July, Sun 20 July, Sun 21 July, Mon 23 July, Mon 25 July
+start.term3,Mon 19 July ,Mon 20 July ,Mon 22 July ,Mon 16 July ,Mon 17 July ,Mon 18 July ,Mon 20 July ,Mon 21 July ,Mon 22 July ,Tue 24 July ,Tue 26 July 
+end.term3, Fri 24 September, Fri 25 September, Fri 27 September, Fri 21 September, Fri 22 September, Fri 23 September, Fri 25 September, Fri 26 September, Fri 27 September, Fri 28 September, Fri 30 September
+start.break3,Sat 25 September ,Sat 26 September ,Sat 28 September ,Sat 22 September ,Sat 23 September ,Sat 24 September ,Sat 26 September ,Sat 27 September ,Sat 28 September ,Sat 29 September ,Sat 1 October 
+end.break3, Sun 10 October, Sun 11 October, Sun 13 October, Sun 7 October, Sun 8 October, Sun 9 October, Sun 11 October, Sun 12 October, Sun 13 October, Mon 15 October, Mon 17 October
+start.term4,Mon 11 October ,Mon 12 October ,Mon 14 October ,Mon 8 October ,Mon 9 October ,Mon 10 October ,Mon 12 October ,Mon 13 October ,Mon 14 October ,Tue 16 October ,Tue 18 October 
+end.term4, Thu 16 December, Thu 17 December, Thu 19 December, Thu 13 December, Thu 14 December, Thu 15 December, Thu 17 December, Thu 18 December, Thu 19 December, Tue 18 December, Wed 14 December
